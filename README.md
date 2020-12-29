@@ -8,7 +8,7 @@ A necessidade do nosso projeto é criar o front dessa aplicação utilizando o f
 
 ### Requisitos de Negócio
 - Deve conter pelo menos uma barra de busca 
-- Essa barra de busca deve filtrar/buscar o nome do carro
+- Essa barra de busca deve filtrar/buscar o nome do carro (considere a forma com que a API funciona para que seja possível atender esse requisito)
 - Dessa busca deve retornar o nome e o preço do veículo
 - Deve existir um filtro/forma de buscar e listar veículos pelo seu de ano/modelo
 - Deve existir um filtro/forma de buscar e listar os veículos por sua de marca (fiat, honda, etc)
