@@ -12,14 +12,14 @@ A necessidade do nosso projeto é criar o front dessa aplicação utilizando o f
 - Dessa busca deve retornar o nome e o preço do veículo
 - Deve existir um filtro/forma de buscar e listar veículos pelo seu de ano/modelo
 - Deve existir um filtro/forma de buscar e listar os veículos por sua de marca (fiat, honda, etc)
-- Não deve retornar mais do que 5 carros de uma vez 
 
 Possível referência para o layout [https://imgur.com/a/XvfBEeo] 
 
 ### Requisitos funcionais essenciais
 - Framework Angular 2+ (de preferência a versão 9)
 - Angular Material para o design da página
-- Requisição para a [API](https://fipeapi.appspot.com/)
+- Requisição para a [API](https://fipeapi.appspot.com/) 
+- Pré-processador de CSS
 - Versionamento de código via github (considerar esse requisito ao iniciar o projeto)
 - Readme com explicação de como rodar o projeto
 
