@@ -21,6 +21,7 @@ Possível referência para o layout [https://imgur.com/a/XvfBEeo]
 - Angular Material para o design da página
 - Requisição para a [API](https://fipeapi.appspot.com/)
 - Versionamento de código via github (considerar esse requisito ao iniciar o projeto)
+- Readme com explicação de como rodar o projeto
 
 ### Requisitos diferenciais (desafio extra):
 - Cobertura de testes unitários - framework da sua preferência (Jest, Jasmine, etc)
