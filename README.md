@@ -29,6 +29,7 @@ A necessidade do nosso projeto é criar o front dessa aplicação utilizando o f
 - Exibir a imagem do veículo
 - Filtro/busca por faixa de preço
 - Filtro/busca por tipo de combustível 
+- Performance no Angular
 
 
 ### Itens que serão avalidados no teste
@@ -37,6 +38,6 @@ A necessidade do nosso projeto é criar o front dessa aplicação utilizando o f
 - Layout e responsividade 
 - Estilização (Estruturação CSS)
 - Versionamento de código, commits, etc
-- Uso do Material Design
+- Performance
 - Criatividade e inovação no que foi solicitado
 
